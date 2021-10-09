@@ -30,7 +30,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 ***
 ## Rules To Contribute To This Repo
 
--   You can make changes to improve the code or add a new code to display nth number of Fibonacci Series using different methods.
+-   You can add anything valuable and make changes to improve the code or add a new code to display nth number of Fibonacci Series using different methods.
 ## Steps For Contribution
 
     1. Fork this repo
